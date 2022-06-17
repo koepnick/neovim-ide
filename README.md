@@ -29,7 +29,7 @@ May work on MacOS.
   * C/C++ (Microcontroller subset)
   * MicroPython
 
-## Features
+## Done
 - [x] Language specific helpfiles
 - [x] Language specific settings shortcuts
 - [x] Semantically consistent mnemonics

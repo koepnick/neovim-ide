@@ -8,6 +8,8 @@ Tested on Arch/Manjaro Linux. Any distribution should work so long as the underl
 
 May work on MacOS.
 
+(Please don't judge me for non-idiomatic code. My goal is readability, not performance. PEP8 notwithstanding)
+
 
 ## Support
 - Python

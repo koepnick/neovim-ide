@@ -1,6 +1,6 @@
 # NeoVim IDE
 
-> I'm allowing this to be public just in case some of these files solve a problem for somebody else. This is my own environment very carefully tailored to my own needs and projects. Suggestions are welcome, but please fork rather than pull request.
+> I'm allowing this to be public just in case some of these files solve a problem for somebody else. This is my own environment very carefully tailored to my own needs and projects. Suggestions are welcome, but please fork rather than request a merge.
 
 Tested on Arch/Manjaro Linux. Any distribution should work so long as the underlying binaries can be found and installed. 
 

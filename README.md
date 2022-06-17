@@ -33,3 +33,10 @@ May work on MacOS.
 - [x] Language specific helpfiles
 - [x] Language specific settings shortcuts
 - [x] Semantically consistent mnemonics
+
+## TODO
+* [ ] Remove superfluous comments
+* [ ] Add useful comments
+* [ ] Cleanup and unify code style
+* [ ] Make the installation procedure safe and bulletproof
+* [ ] Unify dependency install scripts to work for more distributions

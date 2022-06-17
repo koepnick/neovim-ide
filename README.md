@@ -39,4 +39,6 @@ May work on MacOS.
 * [ ] Add useful comments
 * [ ] Cleanup and unify code style
 * [ ] Make the installation procedure safe and bulletproof
+    * [x] Arch/Manjaro
+    * [ ] Debian/Mint
 * [ ] Unify dependency install scripts to work for more distributions

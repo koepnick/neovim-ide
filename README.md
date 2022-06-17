@@ -9,7 +9,7 @@ Tested on Arch/Manjaro Linux. Any distribution should work so long as the underl
 May work on MacOS.
 
 
-Focus is on
+## Support
 - Python
   - Django
   * OpenCV
@@ -21,10 +21,15 @@ Focus is on
   * MultiMarkdown Syntax
   * Pandoc Syntax
 
-  Future languages
+## Future Plans
   * JavaScript
     * NodeJS
     * Svelte
   * TypeScript
   * C/C++ (Microcontroller subset)
   * MicroPython
+
+## Features
+- [x] Language specific helpfiles
+- [x] Language specific settings shortcuts
+- [x] Semantically consistent mnemonics
